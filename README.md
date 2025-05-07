@@ -134,11 +134,14 @@ Key Techniques:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/lung-cancer-detection.git
+git clone https://github.com/obaidanaeem/lung-cancer-detection.git
 cd lung-cancer-detection
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Download Dataset
+Make sure to use classes for cancer detection
 
 # Open DLP_Project.ipynb
 Run all cells one by one
